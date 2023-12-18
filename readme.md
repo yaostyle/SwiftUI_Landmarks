@@ -4,7 +4,6 @@ This repo documents the progress of creating the Landmarks app from the [SwiftUI
 
 ## SwiftUI essentials
 
-
 ### Creating and combining views
 ### Building lists and navigation
-
+### Handling user input
