@@ -21,6 +21,7 @@
 		186BB0852B2FCBAD0081B53A /* CircleImge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186BB0842B2FCBAD0081B53A /* CircleImge.swift */; };
 		186BB0872B2FCCBB0081B53A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186BB0862B2FCCBB0081B53A /* MapView.swift */; };
 		18DF1E492B3F483400491FEC /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DF1E482B3F483400491FEC /* HexagonParameters.swift */; };
+		18DF1E4B2B3F4AED00491FEC /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DF1E4A2B3F4AED00491FEC /* BadgeBackground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		186BB0842B2FCBAD0081B53A /* CircleImge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImge.swift; sourceTree = "<group>"; };
 		186BB0862B2FCCBB0081B53A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		18DF1E482B3F483400491FEC /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		18DF1E4A2B3F4AED00491FEC /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				1859067C2B2FEE51004B2EAC /* LandmarkList.swift */,
 				1859067E2B2FEF52004B2EAC /* LandmarkDetail.swift */,
 				18DF1E482B3F483400491FEC /* HexagonParameters.swift */,
+				18DF1E4A2B3F4AED00491FEC /* BadgeBackground.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				18DF1E492B3F483400491FEC /* HexagonParameters.swift in Sources */,
 				1859067D2B2FEE51004B2EAC /* LandmarkList.swift in Sources */,
 				1859067F2B2FEF52004B2EAC /* LandmarkDetail.swift in Sources */,
+				18DF1E4B2B3F4AED00491FEC /* BadgeBackground.swift in Sources */,
 				186BB0852B2FCBAD0081B53A /* CircleImge.swift in Sources */,
 				1859066C2B2FDBDE004B2EAC /* Landmark.swift in Sources */,
 				185906742B2FE12C004B2EAC /* LandmarkRow.swift in Sources */,
