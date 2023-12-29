@@ -7,3 +7,7 @@ This repo documents the progress of creating the Landmarks app from the [SwiftUI
 ### Creating and combining views
 ### Building lists and navigation
 ### Handling user input
+
+## Drawing and animation
+
+### Drawing paths and shapes
