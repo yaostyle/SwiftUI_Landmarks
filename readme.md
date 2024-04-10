@@ -12,3 +12,8 @@ This repo documents the progress of creating the Landmarks app from the [SwiftUI
 
 ### Drawing paths and shapes
 ### Animating views and transitions
+
+## App design and layout
+
+### Composing complex interfaces
+
