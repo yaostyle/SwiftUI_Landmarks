@@ -39,6 +39,7 @@ struct CategoryHome: View {
             .sheet(isPresented: $showingProfile) {
                 ProfileHost()
                     .environment(modelData)
+                    .padding()
             }
         } detail: {
             Text("Select a Landmark")
